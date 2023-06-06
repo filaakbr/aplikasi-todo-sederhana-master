@@ -157,10 +157,6 @@ app.post('/todos', async (req, res) => {
 * [Enable Emmet support for JSX in Visual Studio Code | React](https://medium.com/@eshwaren/enable-emmet-support-for-jsx-in-visual-studio-code-react-f1f5dfe8809c)
 * [js-beautify for VS Code](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 
-## :file_folder: License
 
-* This project is licensed under the terms of the MIT license.
 
-## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
